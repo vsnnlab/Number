@@ -17,6 +17,5 @@ Gwangsu Kim, Jaeson Jang, Seungdae Baek, Min Song, and Se-Bum Paik*
 
 
 ### 3. Instructions for demo
-- Run "Run.mlapp" and select figure numbers (from 1 to 4) that you want to perform a demo simulation.
-- It performs a demo version (a fewer set of stimuli than in the paper) of simulation using a single condition of the network.
-- Expected running time is about 5 minutes for each figure, but may vary by system conditions.
+- Figure1_4.m and Figure5.m perform a demo version (a fewer set of stimuli than in the paper) of simulation using two conditions of the network.
+- Expected running time is about 5 minutes for each file, but may vary by system conditions.
