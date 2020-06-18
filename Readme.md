@@ -17,5 +17,5 @@ Gwangsu Kim, Jaeson Jang, Seungdae Baek, Min Song, and Se-Bum Paik*
 
 
 ### 3. Instructions for demo
-- Figure1_4.m and Figure5.m perform a demo version (a fewer set of stimuli than in the paper) of simulation using two conditions of the network.
+- 'Figure1_4.m' and 'Figure5.m' perform a demo version (a fewer set of stimuli than in the paper) of simulation using two conditions of the network.
 - Expected running time is about 5 minutes for each file, but may vary by system conditions.
