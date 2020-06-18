@@ -22,7 +22,7 @@ disp('Demo codes for Figure 5 of "Spontaneous generation of number sense in untr
 disp(' ')
 disp('* It performs a demo version (a fewer set of stimuli than in the paper) of simulation using a single condition of the network.')
 disp('  (# images for each condition: 50 -> 10 , # repetition of simulation: 100 (or 1000 for summation model) -> 2)')
-disp('* Expected running time is about 3 minutes, but may vary by system conditions.')
+disp('* Expected running time is about 5 minutes, but may vary by system conditions.')
 disp(' ')
 
 %% Figure 5
