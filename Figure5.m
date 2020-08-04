@@ -49,7 +49,7 @@ layer_last = layer_investigate(2);   %
 array_sz = [55 55 96; 27 27 256; 13 13 384; 13 13 384; 13 13 256]; % Size of Alexnet
 layers_name = {'relu1', 'relu2', 'relu3', 'relu4', 'relu5'};
 LOI = 'relu4'; % Name of layer at which the activation will be measured
-L4investigatePN = [1 16]; % Investigated PN in Conv4 (dec/inc)
+L4investigatePN = [1 16]; % Investigated units in Conv4 (1:decreasing units / 16:increasing units defined by criteria used in Stoianov & Zorzi 2012) 
 L5investigatePN = 1:16; % Investigated PN in Conv5
 
 egN = 10; % # of inc/dec units for visualization
