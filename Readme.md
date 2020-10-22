@@ -1,5 +1,5 @@
 ### Demo codes for </br>
-### 'Visual number sense in untrained deep neural networks" </br>
+### "Visual number sense in untrained deep neural networks" </br>
 Gwangsu Kim, Jaeson Jang, Seungdae Baek, Min Song, and Se-Bum Paik*  
 
 *Contact: sbpaik@kaist.ac.kr
